@@ -1,0 +1,10 @@
+C:\Users\fauza\Desktop\Code\ImageConverter\ImageConverter\bin\Release\ImageConverter.exe.config
+C:\Users\fauza\Desktop\Code\ImageConverter\ImageConverter\bin\Release\ImageConverter.exe
+C:\Users\fauza\Desktop\Code\ImageConverter\ImageConverter\bin\Release\ImageConverter.pdb
+C:\Users\fauza\Desktop\Code\ImageConverter\ImageConverter\obj\Release\ImageConverter.csproj.AssemblyReference.cache
+C:\Users\fauza\Desktop\Code\ImageConverter\ImageConverter\obj\Release\ImageConverter.Main.resources
+C:\Users\fauza\Desktop\Code\ImageConverter\ImageConverter\obj\Release\ImageConverter.Properties.Resources.resources
+C:\Users\fauza\Desktop\Code\ImageConverter\ImageConverter\obj\Release\ImageConverter.csproj.GenerateResource.cache
+C:\Users\fauza\Desktop\Code\ImageConverter\ImageConverter\obj\Release\ImageConverter.csproj.CoreCompileInputs.cache
+C:\Users\fauza\Desktop\Code\ImageConverter\ImageConverter\obj\Release\ImageConverter.exe
+C:\Users\fauza\Desktop\Code\ImageConverter\ImageConverter\obj\Release\ImageConverter.pdb
